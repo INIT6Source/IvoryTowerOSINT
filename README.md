@@ -1,5 +1,7 @@
 # Ivory Tower OSINT
 
+People Directories of Universities 
+
 ## Top 100 Universities (USA)
 
 [Baylor University](https://www1.baylor.edu/directory/) - Requires BearID
@@ -154,23 +156,23 @@
 
 [University of Nebraska--Lincoln](https://directory.unl.edu/)
 
-University of New Hampshire
+[University of New Hampshire](https://mobile.unh.edu/UNHMobile/directory/facultystaff.jsp)
 
-University of New Mexico
+[University of New Mexico](https://directory.unm.edu/public/index.php?name=Neil+Sabol)
 
-University of North Carolina--Chapel Hill
+[University of North Carolina--Chapel Hill](https://dir.unc.edu/)
 
-University of Notre Dame
+[University of Notre Dame](https://search.nd.edu/)
 
-University of Oklahoma
+[University of Oklahoma](https://www.ou.edu/web/search)
 
-University of Oregon
+[University of Oregon](https://www.uoregon.edu/findpeople)
 
-University of Pennsylvania
+[University of Pennsylvania](https://directory.apps.upenn.edu/directory/jsp/fast.do)
 
-University of Pittsburgh
+[University of Pittsburgh](https://find.pitt.edu/)
 
-University of Rhode Island
+[University of Rhode Island](https://directory.uri.edu/index.php?SearchType=people#left)
 
 [University of Rochester](https://onlinedirectory.ur.rochester.edu/)
 
