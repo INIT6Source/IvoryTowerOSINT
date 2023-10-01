@@ -28,79 +28,79 @@
 
 [Dartmouth College](https://home.dartmouth.edu/directory)
 
-Duke University
+[Duke University](https://shib.oit.duke.edu/idp/authn/external?conversation=e2s1) - Requires Duke account
 
-Emory University
+[Emory University](https://directory.service.emory.edu/) 
 
-Florida State University
+[Florida State University](https://apps.its.fsu.edu/Directory/Directory.html)
 
-George Washington University
+[George Washington University](https://my.gwu.edu/mod/directory/)
 
-Georgetown University
+[Georgetown University](https://contact.georgetown.edu/)
 
-Georgia Institute of Technology
+[Georgia Institute of Technology](https://directory.gatech.edu/)
 
-Harvard University
+[Harvard University](https://www.directory.harvard.edu/)
 
-Indiana University--Bloomington
+[Indiana University--Bloomington](https://directory.iu.edu/)
 
-Johns Hopkins University
+[Johns Hopkins University](https://publichealth.jhu.edu/faculty/directory/list?display_type=table)
 
-Lehigh University
+[Lehigh University](https://www.lehigh.edu/cgi-bin/ldapsearch/ldapsearch.pl)
 
-Massachusetts Institute of Technology
+[Massachusetts Institute of Technology (MIT)](https://web.mit.edu/directory/)
 
-Michigan State University
+[Michigan State University](https://search.msu.edu/)
 
-New York University
+[New York University](https://www.stern.nyu.edu/faculty/search_name_form)
 
-North Carolina State University--Raleigh
+[North Carolina State University--Raleigh](https://directory.ncsu.edu/)
 
-Northeastern University
+[Northeastern University](https://coe.northeastern.edu/faculty-staff-directory/)
 
-Northwestern University
+[Northwestern University](https://directory.northwestern.edu/search)
 
-Pennsylvania State University--University Park
+[Pennsylvania State University](https://directory.psu.edu/)
 
-Princeton University
+[Princeton University](https://www.princeton.edu/search/people-advanced)
 
-Purdue University
+[Purdue University](https://www.purdue.edu/directory/)
 
-Rensselaer Polytechnic Institute
+[Rensselaer Polytechnic Institute](https://directory.rpi.edu/)
 
-Rice University
+[Rice University](https://profiles.rice.edu/)
 
-Rutgers University--New Brunswick
+[Rutgers University--New Brunswick](https://search.rutgers.edu/people)
 
-Stanford University
+[Stanford University](https://stanfordwho.stanford.edu/people)
 
-Stony Brook University--SUNY
+[Stony Brook University](https://www.stonybrook.edu/search/people/)
 
-Syracuse University
+[Syracuse University](https://soe.syr.edu/about/directory/)
 
-Texas A&M University--College Station
+[Texas A&M University](https://directory.tamu.edu/)
 
-Tufts University
+[Tufts University](https://directory.tufts.edu/)
 
-University at Buffalo--SUNY
+[University at Buffalo](https://www.buffalo.edu/search/search.html?)
 
-University of Alabama
+[University of Alabama](https://www.ua.edu/search)
 
-University of Alabama--Birmingham
+[University of Alabama--Birmingham](https://library.uab.edu/about/staff-directory)
 
-University of Arizona
+[University of Arizona](https://shibboleth.arizona.edu/idp/profile/cas/login?execution=e1s2) - Requires University of Arizona account
 
-University of Arkansas
+[University of Arkansas](https://directory.uark.edu/)
 
-University of California--Berkeley
+[University of California--Berkeley](https://www.berkeley.edu/directory/)
 
-University of California--Davis
+[University of California--Davis](https://org.ucdavis.edu/directory-search/#/home)
 
-University of California--Irvine
+[University of California--Irvine](https://directory.uci.edu/)
 
-University of California--Los Angeles
+[University of California--Los Angeles](https://directory.ucla.edu/)
 
-University of California--Riverside
+[University of California--Riverside](https://profiles.ucr.edu/app/home)
 
 University of California--San Diego
 
