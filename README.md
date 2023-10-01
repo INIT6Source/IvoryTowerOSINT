@@ -2,11 +2,11 @@
 
 ## Top 100 Universities (USA)
 
-Baylor University
+[Baylor University](https://www1.baylor.edu/directory/) - Requires BearID 
 
-Boston College
+[Boston College](https://services.bc.edu/publicdirectorysearch/search!displayInput.action) 
 
-Boston University
+[Boston University](https://www.bu.edu/directory/)
 
 Brandeis University
 
