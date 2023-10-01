@@ -2,27 +2,27 @@
 
 ## Top 100 Universities (USA)
 
-[Baylor University](https://www1.baylor.edu/directory/) - Requires BearID 
+[Baylor University](https://www1.baylor.edu/directory/) - Requires BearID
 
 [Boston College](https://services.bc.edu/publicdirectorysearch/search!displayInput.action) 
 
 [Boston University](https://www.bu.edu/directory/)
 
-Brandeis University
+[Brandeis University](https://www.brandeis.edu/directory/search) 
 
-Brown University
+[Brown University](https://directory.brown.edu/)
 
-California Institute of Technology
+[California Institute of Technology (Caltech)](https://directory.caltech.edu/)
 
-Carnegie Mellon University
+[Carnegie Mellon University](https://directory.andrew.cmu.edu/)
 
-Case Western Reserve University
+[Case Western Reserve University](https://webapps.case.edu/directory/)
 
-Clemson University
+[Clemson University](https://my.clemson.edu/#/directory)
 
-College of William and Mary
+[College of William and Mary](https://directory.wm.edu/people/)
 
-Columbia University
+[Columbia University](https://directory.columbia.edu/people/)
 
 Cornell University
 
