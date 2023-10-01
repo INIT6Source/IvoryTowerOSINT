@@ -102,57 +102,57 @@
 
 [University of California--Riverside](https://profiles.ucr.edu/app/home)
 
-University of California--San Diego
+[University of California--San Diego](https://blink.ucsd.edu/technology/help-desk/directory/printed-directory/index.html) - Requires UCSD account
 
-University of California--Santa Barbara
+[University of California--Santa Barbara](https://www.ucsb.edu/directory)
 
-University of California--Santa Cruz
+[University of California--Santa Cruz](https://campusdirectory.ucsc.edu/)
 
-University of Chicago
+[University of Chicago](https://directory.uchicago.edu/)
 
-University of Colorado--Boulder
+[University of Colorado--Boulder](https://www.colorado.edu/search)
 
-University of Connecticut
+[University of Connecticut](https://phonebook.uconn.edu/)
 
-University of Dayton
+[University of Dayton](https://udayton.edu/directory/index.php)
 
-University of Delaware
+[University of Delaware](https://udapps.nss.udel.edu/directory/search)
 
-University of Florida
+[University of Florida](https://directory.ufl.edu/)
 
-University of Georgia
+[University of Georgia](https://peoplesearch.uga.edu/)
 
-University of Houston
+[University of Houston](https://www.uh.edu/directory/)
 
-University of Illinois--Chicago
+[University of Illinois--Chicago](https://www.uic.edu/apps/departments-az/search)
 
-University of Illinois--Urbana-Champaign
+[University of Illinois--Urbana-Champaign](https://directory.illinois.edu/search)
 
-University of Iowa
+[University of Iowa](https://iam.uiowa.edu/whitepages/search/people)
 
-University of Kansas
+[University of Kansas](https://directory.ku.edu/)
 
-University of Kentucky
+[University of Kentucky](https://directory.uky.edu/) - Requires UK account
 
-University of Louisville
+[University of Louisville](https://louisville.edu/find.html)
 
-University of Maryland--College Park
+[University of Maryland--College Park](https://academiccatalog.umd.edu/graduate/faculty/)
 
-University of Massachusetts--Amherst
+[University of Massachusetts--Amherst](https://www.umass.edu/peoplefinder/)
 
-University of Massachusetts--Lowell
+[University of Massachusetts--Lowell](https://www.uml.edu/search/?type=people)
 
-University of Miami
+[University of Miami](https://people.miami.edu/)
 
-University of Michigan--Ann Arbor
+[University of Michigan--Ann Arbor](https://mcommunity.umich.edu/)
 
-University of Minnesota--Twin Cities
+[University of Minnesota--Twin Cities](https://usearch.umn.edu/) - Requires UMN account
 
-University of Mississippi
+[University of Mississippi](https://olemiss.edu/people/) - Full search requires UoM account
 
-University of Missouri
+[University of Missouri](https://missouri.edu/directory/)
 
-University of Nebraska--Lincoln
+[University of Nebraska--Lincoln](https://directory.unl.edu/)
 
 University of New Hampshire
 
@@ -172,34 +172,34 @@ University of Pittsburgh
 
 University of Rhode Island
 
-University of Rochester
+[University of Rochester](https://onlinedirectory.ur.rochester.edu/)
 
-University of South Carolina
+[University of South Carolina](https://sc.edu/about/directory/)
 
-University of South Florida
+[University of South Florida](https://directory.usf.edu/#)
 
-University of Southern California
+[University of Southern California](https://uscdirectory.usc.edu/web/directory/faculty-staff/)
 
-University of Tennessee--Knoxville
+[University of Tennessee--Knoxville](https://directory.utk.edu/)
 
-University of Texas--Austin
+[University of Texas--Austin](https://enterprise.login.utexas.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s2) - Rquires UT account
 
-University of Tulsa
+[University of Tulsa](https://utulsa.edu/faculty/)
 
-University of Utah
+[University of Utah](https://staffcouncil.utah.edu/people-directory/)
 
-University of Vermont
+[University of Vermont](https://www.uvm.edu/directory)
 
-University of Virginia
+[University of Virginia](https://publicsearch.people.virginia.edu/)
 
-University of Washington
+[University of Washington](https://directory.uw.edu/)
 
-University of Wisconsin--Madison
+[University of Wisconsin--Madison](https://www.wisc.edu/directories/)
 
-Vanderbilt University
+[Vanderbilt University](https://peoplefinder.app.vumc.org/cdb/) - Requires VUMC account
 
-Wake Forest University
+[Wake Forest University](https://peoplesearch.wfu.edu/)
 
-Washington University in St. Louis
+[Washington University in St. Louis](https://wustl.edu/directory/)
 
 Yale University
