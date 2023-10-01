@@ -24,9 +24,9 @@
 
 [Columbia University](https://directory.columbia.edu/people/)
 
-Cornell University
+[Cornell University](https://www.cornell.edu/search/?tab=people)
 
-Dartmouth College
+[Dartmouth College](https://home.dartmouth.edu/directory)
 
 Duke University
 
