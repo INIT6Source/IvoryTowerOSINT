@@ -2,105 +2,204 @@
 
 ## Top 100 Universities (USA)
 
-Princeton University
+Baylor University
+
+Boston College
+
+Boston University
+
+Brandeis University
+
+Brown University
+
+California Institute of Technology
+
+Carnegie Mellon University
+
+Case Western Reserve University
+
+Clemson University
+
+College of William and Mary
+
+Columbia University
+
+Cornell University
+
+Dartmouth College
+
+Duke University
+
+Emory University
+
+Florida State University
+
+George Washington University
+
+Georgetown University
+
+Georgia Institute of Technology
 
 Harvard University
-Columbia University
-Massachusetts Institute of Technology
-Yale University
-Stanford University
-University of Chicago
-University of Pennsylvania
-Northwestern University
-Duke University
-California Institute of Technology
-Johns Hopkins University
-Dartmouth College
-Brown University
-Vanderbilt University
-Rice University
-Washington University in St. Louis
-Cornell University
-University of Notre Dame
-University of California--Los Angeles
-Emory University
-Georgetown University
-University of California--Berkeley
-University of Michigan--Ann Arbor
-University of Southern California
-Carnegie Mellon University
-University of Virginia
-University of North Carolina--Chapel Hill
-Tufts University
-University of California--San Diego
-University of Rochester
-Boston College
-Brandeis University
-Case Western Reserve University
-College of William and Mary
-New York University
-Northeastern University
-Syracuse University
-University of Florida
-University of Miami
-University of Pittsburgh
-Wake Forest University
-Baylor University
-George Washington University
-Lehigh University
-Pennsylvania State University--University Park
-Rensselaer Polytechnic Institute
-University of Georgia
-University of Illinois--Urbana-Champaign
-University of Wisconsin--Madison
-Purdue University
-University of California--Santa Barbara
-University of California--Davis
-University of California--Irvine
-University of California--Santa Cruz
-University of Connecticut
-University of Maryland--College Park
-University of Texas--Austin
-Boston University
-Georgia Institute of Technology
-University of Washington
+
 Indiana University--Bloomington
-University of Minnesota--Twin Cities
-University of Colorado--Boulder
-University of Iowa
-University of Illinois--Chicago
-University of Massachusetts--Amherst
-University of California--Riverside
-University of Delaware
-University of Tennessee--Knoxville
-University of Vermont
-University of Arizona
-University of Alabama
-University of Oregon
-University of South Carolina
-University of New Hampshire
-University of Nebraska--Lincoln
-University of Kentucky
-University of Missouri
-University of Oklahoma
-Rutgers University--New Brunswick
-Clemson University
-Texas A&M University--College Station
+
+Johns Hopkins University
+
+Lehigh University
+
+Massachusetts Institute of Technology
+
 Michigan State University
-University at Buffalo--SUNY
-Stony Brook University--SUNY
+
+New York University
+
 North Carolina State University--Raleigh
-University of Kansas
-University of Arkansas
-University of Houston
-Florida State University
-University of Louisville
-University of Mississippi
-University of New Mexico
-University of South Florida
-University of Utah
-University of Massachusetts--Lowell
-University of Rhode Island
-University of Dayton
-University of Tulsa
+
+Northeastern University
+
+Northwestern University
+
+Pennsylvania State University--University Park
+
+Princeton University
+
+Purdue University
+
+Rensselaer Polytechnic Institute
+
+Rice University
+
+Rutgers University--New Brunswick
+
+Stanford University
+
+Stony Brook University--SUNY
+
+Syracuse University
+
+Texas A&M University--College Station
+
+Tufts University
+
+University at Buffalo--SUNY
+
+University of Alabama
+
 University of Alabama--Birmingham
+
+University of Arizona
+
+University of Arkansas
+
+University of California--Berkeley
+
+University of California--Davis
+
+University of California--Irvine
+
+University of California--Los Angeles
+
+University of California--Riverside
+
+University of California--San Diego
+
+University of California--Santa Barbara
+
+University of California--Santa Cruz
+
+University of Chicago
+
+University of Colorado--Boulder
+
+University of Connecticut
+
+University of Dayton
+
+University of Delaware
+
+University of Florida
+
+University of Georgia
+
+University of Houston
+
+University of Illinois--Chicago
+
+University of Illinois--Urbana-Champaign
+
+University of Iowa
+
+University of Kansas
+
+University of Kentucky
+
+University of Louisville
+
+University of Maryland--College Park
+
+University of Massachusetts--Amherst
+
+University of Massachusetts--Lowell
+
+University of Miami
+
+University of Michigan--Ann Arbor
+
+University of Minnesota--Twin Cities
+
+University of Mississippi
+
+University of Missouri
+
+University of Nebraska--Lincoln
+
+University of New Hampshire
+
+University of New Mexico
+
+University of North Carolina--Chapel Hill
+
+University of Notre Dame
+
+University of Oklahoma
+
+University of Oregon
+
+University of Pennsylvania
+
+University of Pittsburgh
+
+University of Rhode Island
+
+University of Rochester
+
+University of South Carolina
+
+University of South Florida
+
+University of Southern California
+
+University of Tennessee--Knoxville
+
+University of Texas--Austin
+
+University of Tulsa
+
+University of Utah
+
+University of Vermont
+
+University of Virginia
+
+University of Washington
+
+University of Wisconsin--Madison
+
+Vanderbilt University
+
+Wake Forest University
+
+Washington University in St. Louis
+
+Yale University
