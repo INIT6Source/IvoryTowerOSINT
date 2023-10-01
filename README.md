@@ -204,4 +204,4 @@ People Directories of Universities
 
 [Washington University in St. Louis](https://wustl.edu/directory/)
 
-Yale University
+[Yale University](https://secure.its.yale.edu/cas/login?service=https%3A%2F%2Fdirectory.yale.edu%2F) - Requires Yale account
